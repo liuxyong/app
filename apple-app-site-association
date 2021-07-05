@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3A7K43B2UH.com.caacitc.dangjian",
+                "paths": [ "/app/*"]
+            }
+        ]
+    }
+}
